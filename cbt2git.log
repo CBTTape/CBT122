@@ -1,0 +1,24 @@
+2023-04-02 22:03:11.071886 - Initialized conversion of CBT122
+2023-04-02 22:03:11.259121 - Received CBT.V504.FILE122.PDS from FILE122.XMI 
+2023-04-02 22:03:11.262128 - Found $$$$$$$$.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/$$$$$$$$
+2023-04-02 22:03:11.263324 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:03:11.264425 - Found $$DOC.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/$$DOC
+2023-04-02 22:03:11.265593 - Found @FILE122.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/@FILE122
+2023-04-02 22:03:11.267076 - Found CMDRMSG.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/CMDRMSG
+2023-04-02 22:03:11.268189 - Found COMEIN.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/COMEIN
+2023-04-02 22:03:11.269430 - Found GETOUT.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/GETOUT
+2023-04-02 22:03:11.270524 - Found IEFSSN00.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/IEFSSN00
+2023-04-02 22:03:11.271856 - Found JES2PARM.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/JES2PARM
+2023-04-02 22:03:11.273072 - Found J2SRB01.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/J2SRB01
+2023-04-02 22:03:11.274159 - Found J2TBL03.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/J2TBL03
+2023-04-02 22:03:11.275198 - Found J2XIT01.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/J2XIT01
+2023-04-02 22:03:11.276569 - Found J2XIT02.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/J2XIT02
+2023-04-02 22:03:11.277758 - Found J2XIT03.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/J2XIT03
+2023-04-02 22:03:11.278885 - Found J2XIT04.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/J2XIT04
+2023-04-02 22:03:11.280095 - Found J2XIT09.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/J2XIT09
+2023-04-02 22:03:11.281378 - Found QUITMVS.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/QUITMVS
+2023-04-02 22:03:11.282511 - Found RCMD.jcl (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/RCMD
+2023-04-02 22:03:11.283875 - Found RMSG.jcl (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/RMSG
+2023-04-02 22:03:11.284970 - Found RMSGCMD.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/RMSGCMD
+2023-04-02 22:03:11.286235 - Found RMSGLOAD.jcl (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/RMSGLOAD
+2023-04-02 22:03:11.287414 - Found RMSGSUB.txt (text/plain) in CBT.V504.FILE122.PDS, moved to PDS/RMSGSUB
